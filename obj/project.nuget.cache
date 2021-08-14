@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgngNc8mL6gbMVDlAYzf3aHVC+2BClg37rK2ejvGEtYUd5ESuGsdAjPFk6/vIpvDuQ5keCcarvQvh/8ZEFlLVg==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Fit5032_MyFirstApi\\Fit5032_MyFirstApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GuoShuai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\GuoShuai\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GuoShuai\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\GuoShuai\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\GuoShuai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\GuoShuai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
